@@ -1,0 +1,1 @@
+// ideaController.js - placeholder

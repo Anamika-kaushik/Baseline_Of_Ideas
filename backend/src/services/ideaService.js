@@ -1,0 +1,1 @@
+// ideaService.js - placeholder

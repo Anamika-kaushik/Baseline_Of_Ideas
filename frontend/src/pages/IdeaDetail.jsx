@@ -1,0 +1,1 @@
+// IdeaDetail.jsx - placeholder

@@ -1,0 +1,1 @@
+// ProjectViewer.jsx - placeholder

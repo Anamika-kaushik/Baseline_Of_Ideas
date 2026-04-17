@@ -1,0 +1,1 @@
+// IdeaGenerator.jsx - placeholder
